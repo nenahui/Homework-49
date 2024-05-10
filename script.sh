@@ -1,4 +1,5 @@
 #!/bin/bash
+chmod +x &0
 mkdir projects && cd projects
 mkdir my_project && cd my_project
 mkdir directory1 && cd directory1
